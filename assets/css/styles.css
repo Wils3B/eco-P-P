@@ -1,0 +1,73 @@
+#top-nav {
+  background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.1));
+  width: 100%;
+  position: absolute;
+  top: 0;
+}
+
+.header {
+  height: 442px;
+  width: 100%;
+  background-size: cover;
+}
+
+.home-bg {
+  background-image: url("../../assets/img/th2.jpg");
+}
+
+.header-body {
+  background-color: rgba(0,0,0,0.5);
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.header-btns > .btn {
+  margin: .5rem 1rem;
+  width: 150px;
+}
+
+.main-footer {
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+
+.newsletter-form .btn {
+  box-shadow: none;
+  border-radius: 0;
+  padding: 0.375rem .5rem;
+}
+
+.newsletter-form > .input-group {
+  box-shadow: 0 1px 4px black;
+}
+
+.socials {
+  font-size: 2rem;
+}
+
+.join-form {
+  border-top: 3px solid #28a745;
+  padding: 1rem;
+  box-shadow: 0px 2px 10px gray;
+}
+
+.join-bg {
+  background-image: url("../../assets/img/community.jpg");
+  background-position: center;
+}
+
+.forest-bg {
+  background-image: url("../../assets/img/forest.jpg");
+}
+
+.nuclear-bg {
+  background-image: url("../../assets/img/nuclear.jpg");
+  background-image: url("../../assets/img/nuclear.jpg");
+}
+
+.meeting-bg {
+  background-image: url("../../assets/img/meeting.jpg");
+}
+
